@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;NO&quot;},&quot;serverAliveInterval&quot;:300}" host="https://github.com/" id="0d6b75e4-07ba-49a6-9975-23063589fe11" port="22" nameFormat="DESCRIPTIVE" />
+    </configs>
+  </component>
+</project>
