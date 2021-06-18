@@ -2,13 +2,18 @@
 
 .navbar
 {
-  background-color: #FDF6EA !important;
+  background-color: #0808 !important;
 }
 .navbar-brand
 {
   font-size: 3rem;
+  float: left;
+  color: #999999;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
 }
 h1
 {
-  color: red;
+  color: black;
 }
